@@ -16,7 +16,7 @@ license: Дозвола
 eula: Уговор о лиценци
 history of incidents: Историја инцидената
 privacy and security: Приватост и безбедност
-inspired by: Инспирисано од
+inspired by [%a][%b]avdan[%b][%a]: Инспирисано од [%a][%b]Avdan[%b][%a]
 avdanos contributors: AvdanOS сарадници
 # alert.tsx
 is still in development.: је даље у развоју.
@@ -34,6 +34,13 @@ demo: Проба
 your pc but even better!: Ваш рачунар али чак бољи!
 try in your browser: Испробајте у вашем претраживачу
 download now!: Преузмите сада!
+# miniFeaures.tsx
+workflow redefined:
+time is priceless, and there is so little time. with right tools and professional workspace, every task is simple as pie for the least amount of time!:
+check what avdanos offers to you.:
+see here:
+open projects with open community:
+interested? give it a try!:
 # discover.tsx
 open source on github: Отворите извор на github-у
 browse all repos: Претражите све репозиторијуме
@@ -57,7 +64,7 @@ everyone knows dock/task bar. we got a brand new dock, with more features than e
 brand new launch menu: Потпуно нов почетни мени
 with everything in one place, do anything anywhere at anytime.: Са свиме на једним местом, радите било шта у било које време.
 easily apply layout: Лако постављен изглед
-with a list of presets determined from you apps, easily get to work with the perfect window layout. not enough? change it in the settings.: Са листом шаблона одрећених из ваших апликација, лако пређите на посао у савршеном окружењу. Није довољно? Промените то у подешавањима.
+with a list of presets determined from your apps, easily get to work with the perfect window layout. not enough? change it in the settings.: Са листом шаблона одрећених из ваших апликација, лако пређите на посао у савршеном окружењу. Није довољно? Промените то у подешавањима.
 overpowered dock: Прејак док
 your dock can do more than ever. it's your ultimate manager to get you organised.: Ваш док може више него пре. То је Ваш ултимативни менаџер да се организујете.
 new way to manage files: Нов начин за организацију докумената
@@ -98,12 +105,13 @@ yes, i understand: Да, разумем
 use torrent download: Преузмите преко Torrent-а
 continue: Наставите
 # in testing
-having trouble? click [%s]here[%s] to get help!: Имате проблема? Кликните [%s] овде [%s] за помоћ!
+having trouble? click [%a]here[%a] to get help!: Имате проблема? Кликните [%a] овде [%a] за помоћ!
 
 # support.tsx
 avdanos support: AvdanOS подршка
 contact us on social media: Контактирајте нас преко друштвених мрежа
 visit: Посетите
+want to suggest anything to us? we always want to listen to the community. present your ideas [%a]here[%a].:
 
 # support-beta.tsx
 avdanos support articles: AvdanOS чланак за подршку
@@ -122,11 +130,11 @@ open manual: Отвори приручник
 manual is not available yet:
 i'm a developer: Ја сам програмер
 open documentation: Отвори документацију
-doc is not available yet:
 
 # demo.tsx
 # "Try in your browser." is in index.tsx
 full screen: Пун екран
+this demo is open source on [%a]github[%a].:
 
 # 404.tsx
 page not found: Страница није пронађена

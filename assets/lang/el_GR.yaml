@@ -16,7 +16,7 @@ license: άδεια
 eula:
 history of incidents: ιστορικό περιστατικών
 privacy and security: μυστικότητα και ασφάλεια
-inspired by: εμπνευσμένο από
+inspired by [%a][%b]avdan[%b][%a]: εμπνευσμένο από [%a][%b]Avdan[%b][%a]
 avdanos contributors: τον avdan
 # alert.tsx
 is still in development.: υπό ανάπτυξη.
@@ -34,6 +34,13 @@ demo: δοκιμαστικό
 your pc but even better!: το pc σου, αλλά ακόμα καλύτερο!
 try in your browser: δοκίμασέ το στο browser σου
 download now!: κατέβασέ το τώρα!
+# miniFeaures.tsx
+workflow redefined:
+time is priceless, and there is so little time. with right tools and professional workspace, every task is simple as pie for the least amount of time!:
+check what avdanos offers to you.:
+see here:
+open projects with open community:
+interested? give it a try!:
 # discover.tsx
 open source on github:
 browse all repos:
@@ -57,7 +64,7 @@ everyone knows dock/task bar. we got a brand new dock, with more features than e
 brand new launch menu: καινούριο launch menu
 with everything in one place, do anything anywhere at anytime.: με τα πάντα σε ένα μέρος, κάντε οτιδήποτε οπουδήποτε και ανά πάσα στιγμή
 easily apply layout: εφαρμόστε εύκολα τη διάταξη
-with a list of presets determined from you apps, easily get to work with the perfect window layout. not enough? change it in the settings.: με μια λίστα προεπιλογών που καθορίζονται από τις εφαρμογές σας, ξεκινήστε εύκολα τη δουλειά με την τέλεια διάταξη παραθύρου. όχι αρκετά? αλλάξτε το στις ρυθμίσεις.
+with a list of presets determined from your apps, easily get to work with the perfect window layout. not enough? change it in the settings.: με μια λίστα προεπιλογών που καθορίζονται από τις εφαρμογές σας, ξεκινήστε εύκολα τη δουλειά με την τέλεια διάταξη παραθύρου. όχι αρκετά? αλλάξτε το στις ρυθμίσεις.
 overpowered dock: σουπερ dock
 your dock can do more than ever. it's your ultimate manager to get you organised.: το dock σας μπορεί να κάνει περισσότερα από ποτέ. είναι ο απόλυτος διαχειριστής σας για να σας οργανώσει.
 new way to manage files: νέος τρόπος διαχείρισης αρχείων
@@ -98,12 +105,13 @@ yes, i understand: ναι, καταλαβαίνω
 use torrent download: χρησιμοποίησε torrent download
 continue: συνέχισε
 # in testing
-having trouble? click [%s]here[%s] to get help!: έχεις πρόβλημα; κάνε κλικ [%s] εδώ [%s] για βοήθεια!
+having trouble? click [%a]here[%a] to get help!: έχεις πρόβλημα; κάνε κλικ [%a] εδώ [%a] για βοήθεια!
 
 # support.tsx
 avdanos support: υποστήριξη του avdanos
 contact us on social media: ειδοποιήστε μας social media
 visit:
+want to suggest anything to us? we always want to listen to the community. present your ideas [%a]here[%a].:
 
 # support-beta.tsx
 avdanos support articles: άρθρα υποστήριξης του avdanos
@@ -122,11 +130,11 @@ open manual: άνοιξε το εγχειρίδιο
 manual is not available yet:
 i'm a developer: είμαι προγραμματιστής
 open documentation: άνοιξε την τεκμηρίωση
-doc is not available yet:
 
 # demo.tsx
 # "δοκίμασέ το στο browser σου." is in index.tsx
 full screen:
+this demo is open source on [%a]github[%a].:
 
 # 404.tsx
 page not found: η σελίδα δε βρέθηκε

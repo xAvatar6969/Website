@@ -13,10 +13,10 @@ discord:
 reddit:
 legal: Juridisk
 license: Licens
-eula: EULA
+eula:
 history of incidents: Hændelseshistorik
 privacy and security: Privatliv og Sikkerhed
-inspired by: Inspireret af
+inspired by [%a][%b]avdan[%b][%a]: Inspireret af [%a][%b]Avdan[%b][%a]
 avdanos contributors: AvdanOS bidragydere
 # alert.tsx
 is still in development.: Stadig under udvikling
@@ -34,6 +34,13 @@ demo: Demo
 your pc but even better!: Din pc, men meget bedre!
 try in your browser: Prøv i din browser
 download now!: Hent nu!
+# miniFeaures.tsx
+workflow redefined:
+time is priceless, and there is so little time. with right tools and professional workspace, every task is simple as pie for the least amount of time!:
+check what avdanos offers to you.:
+see here:
+open projects with open community:
+interested? give it a try!:
 # discover.tsx
 open source on github: Åben kildekode på GitHub
 browse all repos: Gennemse alle depoter
@@ -57,7 +64,7 @@ everyone knows dock/task bar. we got a brand new dock, with more features than e
 brand new launch menu: Helt ny startmenu
 with everything in one place, do anything anywhere at anytime.: Med alting på et sted, lav alting hvor som helst når som helst.
 easily apply layout: Nemt anvendeligt layout
-with a list of presets determined from you apps, easily get to work with the perfect window layout. not enough? change it in the settings.: Kom nemt igang med den perfekte vindueopsætning, med en liste af forudindstillinger bestemt af dine apps. Er det ikke nok, kan du bare lave det om i indstillingerne.
+with a list of presets determined from your apps, easily get to work with the perfect window layout. not enough? change it in the settings.: Kom nemt igang med den perfekte vindueopsætning, med en liste af forudindstillinger bestemt af dine apps. Er det ikke nok, kan du bare lave det om i indstillingerne.
 overpowered dock: Kraftfuld Dok
 your dock can do more than ever. it's your ultimate manager to get you organised.: Din dok kan gøre mere end nogensinde. Det er din ultimative manager til at blive organiseret.
 new way to manage files: Ny måde at administrere filer
@@ -98,12 +105,13 @@ yes, i understand: Ja, jeg forstår
 use torrent download: Brug torrent-hentning
 continue: Forsæt
 # in testing
-having trouble? click [%s]here[%s] to get help!: Har du problemer? Klik [%s] her [%s] for hjælp!
+having trouble? click [%a]here[%a] to get help!: Har du problemer? Klik [%a] her [%a] for hjælp!
 
 # support.tsx
 avdanos support: AvdanOS hjælp
 contact us on social media: Kontakt os på sociale medier
 visit: Besøg
+want to suggest anything to us? we always want to listen to the community. present your ideas [%a]here[%a].:
 
 # support-beta.tsx
 avdanos support articles: AvdanOS hjælpe-artikler
@@ -122,11 +130,11 @@ open manual: Åben manual
 manual is not available yet: Denne manual er ikke tilgængelig endnu
 i'm a developer: Jeg er udvikler
 open documentation: Åben dokumentation
-doc is not available yet: Docs er ikke tilgængelig endnu
 
 # demo.tsx
 # "Try in your browser." is in index.tsx
 full screen: Fuld skærm
+this demo is open source on [%a]github[%a].:
 
 # 404.tsx
 page not found: Side ikke fundet
